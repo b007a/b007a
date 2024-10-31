@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @b007a
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m Alexa a Computer Science major.
+- 👀 I’m interested in the ways we use technology and data to understand the world around us
+- 🌱 I’m currently learning Java, C++ and Python
